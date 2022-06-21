@@ -10,7 +10,7 @@ I'm Dhanvi Medha,a 2nd year undergraduate student at IIIT Bangalore.
 * **💬 Ask me about** Web Development,Deep Learning,Front-end Development.
 * - 📫 How to reach me: 
   - Email: dhanvimedha@gmail.com
-* **⚡ Fun fact** I can solve a Rubiks cube under 10 seconds :)
+* **⚡ Fun fact** I can solve a 3x3 Rubiks cube under 10 seconds :)
 
 ### My Github Stats
 
