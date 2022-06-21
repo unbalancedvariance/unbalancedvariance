@@ -14,7 +14,7 @@ I'm Dhanvi Medha,a 2nd year undergraduate student at IIIT Bangalore.
 
 ### My Github Stats
 
-[![Dhanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobalternative&count_private=true&show_icons=true&bg_color=30,a96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ArvinSKushwaha)
+[![Dhanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobalternative&count_private=true&show_icons=true&bg_color=30,a96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/jacobalternative)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jacobalternative&bg_color=30,a96443,904e95&title_color=fff&text_color=fff&icon_color=fff&layout=compact&langs_count=10)
  
