@@ -1,7 +1,7 @@
 
 <h2 align="left">Hey there!👋</h2>
 
-I'm Dhanvi Medha,a 2nd year ECE undergraduate student at IIIT Bangalore. 
+I'm Dhanvi Medha,a 3rd year ECE undergraduate student at IIIT Bangalore. 
 
 <h2>About Me</h2>
 
