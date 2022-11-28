@@ -6,7 +6,7 @@ I'm Dhanvi Medha,a 3rd year ECE undergraduate student at IIIT Bangalore.
 <h2>About Me</h2>
 
 * **🌱 I’m currently learning** Blockchain development,Machine Learning
-* **👯 I’m looking to collaborate on** Web Development,Machine Learning/NLP
+* **👯 I’m looking to collaborate on** Web Development,web3 projects and Machine Learning/NLP
 * **💬 Ask me about** Web Development,Deep Learning,Blochchain.
 * - 📫 How to reach me: 
   - Email: dhanvimedha@gmail.com
